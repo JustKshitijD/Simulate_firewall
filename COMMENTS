@@ -1,0 +1,4 @@
+I got a feel of the way firewall checks packet data and lets only select packets through.
+This was a simpler assignment as compared to previous ones.
+
+I think it would be helpful if other testcases besides the one provided, are made public, so that we can test our code. 

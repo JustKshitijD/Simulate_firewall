@@ -1,0 +1,5 @@
+With variable-length subnetting, the prefix length does not have to be a multiple of 8. For example, you can have the IP address 192.168.123.224, with a netmask = 255.255.255.224, and a prefix length = 27, covering the addresses between 192.168.123.225 and 192.168.123.255. IPv4 network addresses can have a prefix length between 1 and 32. IPv6 network addresses can have a prefix length between 1 and 128.
+
+So, given the prefix length, I know start and end of IP addresses.
+
+https://www.baeldung.com/cs/get-ip-range-from-subnet-mask

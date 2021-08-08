@@ -1,0 +1,14 @@
+lab5-fw.py is the main program.
+
+rulefile.txt is the file having list of rules.
+pktfile.txt is the file having list of packets.
+
+rulefile.txt and pktfile.txt can be generated via-
+(i) "gcc rulegen.c"
+(ii) "./a.out 300 rulefile.txt pktfile.txt"
+This will make rulefile.txt have 300 rules.
+
+Run via-
+"python lab5-fw.py rulefile.txt pktfile.txt"
+
+This will print output in rerquired format on screen.
